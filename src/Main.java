@@ -6,6 +6,7 @@ public class Main   {
         Artista artista1 = new Artista("Flavio", "favio@email", "flavio1234","foto","gabi",10000000);
         Podcast podcast1 = new Podcast("Ep 1", "Flavio", 2,"oiiiii");
         Musica musica1 = new Musica("Gabi", "Flavio",3,"Gabi");
+        //blabla
 
         while (true) {
             System.out.println("---- Menu ----");
