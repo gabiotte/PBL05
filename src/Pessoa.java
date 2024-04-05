@@ -9,7 +9,10 @@ public class Pessoa {
         this.email = email;
         this.senha = senha;
         this.foto = foto;
+    }
 
+    public String getNome() {
+        return this.nome;
     }
 }
 
