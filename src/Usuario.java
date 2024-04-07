@@ -7,4 +7,7 @@ public class Usuario extends Pessoa {
         this.tipoDeConta = tipoDeConta;
         this.username = username;
     }
+    public String getUsername() {
+        return this.username;
+    }
 }
